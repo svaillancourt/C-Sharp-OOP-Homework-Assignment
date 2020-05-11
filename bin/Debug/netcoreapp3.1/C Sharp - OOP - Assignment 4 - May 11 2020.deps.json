@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "C Sharp - OOP - Assignment 4 - May 11 2020/1.0.0": {
+        "runtime": {
+          "C Sharp - OOP - Assignment 4 - May 11 2020.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C Sharp - OOP - Assignment 4 - May 11 2020/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Step Laptop\Google Drive\Projects\School\TechCareers\Assignments\C Sharp - OOP - Assignment 4 - May 11 2020\bin\Debug\netcoreapp3.1\C Sharp - OOP - Assignment 4 - May 11 2020.exe
+C:\Users\Step Laptop\Google Drive\Projects\School\TechCareers\Assignments\C Sharp - OOP - Assignment 4 - May 11 2020\bin\Debug\netcoreapp3.1\C Sharp - OOP - Assignment 4 - May 11 2020.deps.json
+C:\Users\Step Laptop\Google Drive\Projects\School\TechCareers\Assignments\C Sharp - OOP - Assignment 4 - May 11 2020\bin\Debug\netcoreapp3.1\C Sharp - OOP - Assignment 4 - May 11 2020.runtimeconfig.json
+C:\Users\Step Laptop\Google Drive\Projects\School\TechCareers\Assignments\C Sharp - OOP - Assignment 4 - May 11 2020\bin\Debug\netcoreapp3.1\C Sharp - OOP - Assignment 4 - May 11 2020.runtimeconfig.dev.json
+C:\Users\Step Laptop\Google Drive\Projects\School\TechCareers\Assignments\C Sharp - OOP - Assignment 4 - May 11 2020\bin\Debug\netcoreapp3.1\C Sharp - OOP - Assignment 4 - May 11 2020.dll
+C:\Users\Step Laptop\Google Drive\Projects\School\TechCareers\Assignments\C Sharp - OOP - Assignment 4 - May 11 2020\bin\Debug\netcoreapp3.1\C Sharp - OOP - Assignment 4 - May 11 2020.pdb
+C:\Users\Step Laptop\Google Drive\Projects\School\TechCareers\Assignments\C Sharp - OOP - Assignment 4 - May 11 2020\obj\Debug\netcoreapp3.1\C Sharp - OOP - Assignment 4 - May 11 2020.csprojAssemblyReference.cache
+C:\Users\Step Laptop\Google Drive\Projects\School\TechCareers\Assignments\C Sharp - OOP - Assignment 4 - May 11 2020\obj\Debug\netcoreapp3.1\C Sharp - OOP - Assignment 4 - May 11 2020.csproj.CoreCompileInputs.cache
+C:\Users\Step Laptop\Google Drive\Projects\School\TechCareers\Assignments\C Sharp - OOP - Assignment 4 - May 11 2020\obj\Debug\netcoreapp3.1\C Sharp - OOP - Assignment 4 - May 11 2020.AssemblyInfoInputs.cache
+C:\Users\Step Laptop\Google Drive\Projects\School\TechCareers\Assignments\C Sharp - OOP - Assignment 4 - May 11 2020\obj\Debug\netcoreapp3.1\C Sharp - OOP - Assignment 4 - May 11 2020.AssemblyInfo.cs
+C:\Users\Step Laptop\Google Drive\Projects\School\TechCareers\Assignments\C Sharp - OOP - Assignment 4 - May 11 2020\obj\Debug\netcoreapp3.1\C Sharp - OOP - Assignment 4 - May 11 2020.dll
+C:\Users\Step Laptop\Google Drive\Projects\School\TechCareers\Assignments\C Sharp - OOP - Assignment 4 - May 11 2020\obj\Debug\netcoreapp3.1\C Sharp - OOP - Assignment 4 - May 11 2020.pdb
+C:\Users\Step Laptop\Google Drive\Projects\School\TechCareers\Assignments\C Sharp - OOP - Assignment 4 - May 11 2020\obj\Debug\netcoreapp3.1\C Sharp - OOP - Assignment 4 - May 11 2020.genruntimeconfig.cache
