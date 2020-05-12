@@ -12,22 +12,29 @@ namespace abstraction
             }
         }
 
-        abstract class Artist
+        abstract class Artist : Name
         {
             public void myArtist()
             {
-                Console.WriteLine("Artist: - He's on FIRE! - ");
+                Console.WriteLine("Artist: - Le Step - ");
             }
         }
-        abstract class Medium
+        abstract class Medium : Artist
         {
             public void myMedium()
             {
-                Console.WriteLine("Floppy Disk!");
+                Console.WriteLine("Medium: Floppy Disk!");
             }
         }
 
-        class PublicMessage : Name
+        abstract class Year : Medium
+        {
+            public void myYear()
+            {
+                Console.WriteLine("Year: 1988!");
+            }
+        }
+        class PublicDescription : Year
         {
             public void myPublicMessage()
             {
@@ -36,10 +43,12 @@ namespace abstraction
         }
         static void Main(string[] args)
         {
-            PublicMessage myPubMsg = new PublicMessage();
+            PublicDescription myPubMsg = new PublicDescription();
             myPubMsg.myPublicMessage();
             myPubMsg.myName();
+            myPubMsg.myArtist();
             myPubMsg.myMedium();
+            myPubMsg.myYear();
 
         }
     }
